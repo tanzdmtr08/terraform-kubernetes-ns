@@ -3,7 +3,7 @@
 
 ```
 module  ns-demo {
-  source      = "farrukh90/ns/kubernetes"
+  source      = "tanzdmtr08/ns/kubernetes"
 
   name        = "demo-ns"
 
