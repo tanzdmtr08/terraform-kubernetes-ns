@@ -1,4 +1,4 @@
-resource "kubernetes_namespace" "example" {
+resource "kubernetes_namespace_v1" "this" {
   metadata {
     annotations = var.annotations
     labels      = var.labels
